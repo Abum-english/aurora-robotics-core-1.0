@@ -13,3 +13,4 @@ The first 30 lines were easy to comment on my basic knowledge on python helped a
 
 I got a lot of confusion from line 31 below
  
+I revisited the code and ran each line to truely understand what each code did and made new changes to my comments with the new knowledge gained
